@@ -67,6 +67,8 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
   - Powerlevel10k
 https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh
 
+nastepnie się przelogować, lub nawet zrestartować maline.
+
 
 > [!TIP]
 > `tmux` zastępuje znaki nie-ASCII symbolem _, jeśli został uruchomiony bez opcji `-u`, a ustawienia lokalne w momencie jego uruchomienia nie były ustawione na UTF-8.
@@ -92,6 +94,14 @@ szczegóły można znaleźć pod adresem:
 
 https://github.com/adafruit/Adafruit_Python_DHT
 
->[!TIP]
-> w razie brakujących pakietów, można je wyszukać za pomocą `yay` i parametru` -Ss`, np `yay -Ss setuptools`, a następnie instalacja wyszukanego pakietu 
 
+
+>[!TIP]
+> w razie brakujących pakietów, można je wyszukać za pomocą `yay` i parametru` -Ss`, np `yay -Ss setuptools`, a następnie instalacja wyszukanego pakietu
+
+
+
+
+efekt koncowy
+
+![Adafruit](https://github.com/user-attachments/assets/b5d5172f-c0dc-45fc-994a-f1ebdf0488b8)
