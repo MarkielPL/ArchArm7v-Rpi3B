@@ -48,7 +48,7 @@ W Arch User Repository (AUR) znajdziesz ogromną liczbę pakietów oprogramowani
 **yay** jest jednym z najpopularniejszych pomocników AUR:
 
 ```
-mkdir temp && cd tempcd temp 
+mkdir temp && cd temp
 sudo git clone https://aur.archlinux.org/yay-bin.git
 sudo chmod +x [USER:GROUP] yay-bin
 cd yay-bin
