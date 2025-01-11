@@ -37,7 +37,7 @@ _(możliwe, że trzeba będzie wykonać pełną aktualizację `pacman -Syu`)_
 
 ```
 sudo pacman -Sy
-sudo pacman -S base base-devel linux linux-firmware git wget openssh dhcpd networkmanager network-manager-applet iw
+sudo pacman -S base base-devel linux linux-firmware git wget openssh networkmanager network-manager-applet iw
                wpa_supplicant dialog lshw unzip btop
 ```
 
