@@ -1,4 +1,4 @@
-# **$\textcolor{blue}{ArchArm7v-Rpi3B+}$**
+# **$\textcolor{blue}{ArchArm7v-Rpi3B+ DHT11}$**
 
 ## 1. Konfiguracja arch`a: 
 ### Sposób instalacji Arch'a ARM można znaleźć pod adresem:
