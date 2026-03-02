@@ -75,12 +75,10 @@ nastepnie się przelogować, lub nawet zrestartować maline.
 > Najlepszym sposobem na rozwiązanie tego problemu jest zainstalowanie i włączenie lokalizacji UTF-8 w systemie
 
 `tmux`                                                                                   
-
 ![tmux](https://github.com/user-attachments/assets/096c1625-6ff6-4196-96ca-b689a1c5c0bf)  
 
 
 `tmux -u`
-
 ![tmux-u](https://github.com/user-attachments/assets/d2db76f1-274c-4726-ba59-1009536fe099)
 
 
