@@ -74,11 +74,13 @@ nastepnie się przelogować, lub nawet zrestartować maline.
 > `tmux` zastępuje znaki nie-ASCII symbolem _, jeśli został uruchomiony bez opcji `-u`, a ustawienia lokalne w momencie jego uruchomienia nie były ustawione na UTF-8.
 > Najlepszym sposobem na rozwiązanie tego problemu jest zainstalowanie i włączenie lokalizacji UTF-8 w systemie
 
-`tmux`                                                                                   
+`tmux`          
+
 ![tmux](https://github.com/user-attachments/assets/096c1625-6ff6-4196-96ca-b689a1c5c0bf)  
 
 
 `tmux -u`
+
 ![tmux-u](https://github.com/user-attachments/assets/d2db76f1-274c-4726-ba59-1009536fe099)
 
 
