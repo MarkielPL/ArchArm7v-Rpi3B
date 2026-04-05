@@ -1,6 +1,4 @@
-body {
-  font-family: 'Arial', sans-serif;
-  # **$\textcolor{blue}{ArchArm7v-Rpi3B+ DHT11 }$**
+# **$\textcolor{blue}{ArchArm7v-Rpi3B+ DHT11 }$**
 
 ## 1. Konfiguracja arch`a: 
 ### Sposób instalacji Arch'a ARM można znaleźć pod adresem:
@@ -103,7 +101,7 @@ https://github.com/adafruit/Adafruit_Python_DHT
 
 
 
-}
+
 efekt koncowy
 
 ![Adafruit](https://github.com/user-attachments/assets/b5d5172f-c0dc-45fc-994a-f1ebdf0488b8)
