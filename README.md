@@ -1,7 +1,8 @@
 # $\textcolor{blue}{ArchArm7v-Rpi3B+ DHT11}$
 
 <p align="center">
-**📖 Project Description** 
+***📖 Project Description***
+  
 This project presents the complete setup and configuration process for running Arch Linux ARM on a Raspberry Pi 3 Model B+ with integration of the DHT11 sensor using the Adafruit Python library.
 
 The repository includes:
